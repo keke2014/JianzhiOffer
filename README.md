@@ -1,4 +1,4 @@
 JianzhiOffer
 ============
 
-Codes of JianzhiOffer for Jiudu Onlne Judge
+Codes of JianzhiOffer for Jiudu Online Judge
